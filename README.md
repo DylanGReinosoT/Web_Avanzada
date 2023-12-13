@@ -11,11 +11,10 @@ La estructura if, se basa si una condición es verdadero o falsa de acuerdo a lo
 El if es útil en programación porque permite que un programa tome decisiones dinámicas y ejecute diferentes acciones basadas en diferentes condiciones. Esto es fundamental para el flujo de control del programa, ya que permite la ejecución de cierto código dependiendo de la situación en tiempo de ejecución.
 
 #¿Qué ventajas ofrece la programación orientada a objetos en comparación con otros paradigmas de programación? 
-
 		Reutilización de código y modularidad
 		Facilidad a la hora del mantenimiento del código
 		Abstracción
-	  Una estructura organizada
+	 	Una estructura organizada
 		Encapsulación y ocultamiento de información
 		Herencia y Polimorfismo
 
