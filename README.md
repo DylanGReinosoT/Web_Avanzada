@@ -1,4 +1,4 @@
-#Preguntas de Reflexión:
+# Preguntas de Reflexión
 
 ¿Cuál es la diferencia entre una variable y una propiedad en C#? 
 
